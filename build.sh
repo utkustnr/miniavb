@@ -1,4 +1,4 @@
-#!/system/bin/sh
+#!/bin/sh
 
 CUR_DIR=$(pwd)
 
